@@ -8,7 +8,7 @@ What it does:
 - run analysis
 - run steel design (default code: `AISC360-16`)
 - export analysis log / design summary ratios to Excel
-- optimize member sections with a **genetic algorithm** to reduce structural weight
+- optimize member sections with a **genetic algorithm** to reduce structural weight.
 
 > Requires Windows + a licensed SAP2000 installation. The COM bridge will not work on macOS/Linux.
 
